@@ -1,3 +1,5 @@
+June 16, 2017: I'm going to attempt to write the "macro" section of mx2000drv from pzl. This is not my code, just cloning it to see if I can contribute anything. (if I've done this wrong let me know, I'm rather new to github unfortunately) Credits to pzl for making an excellent driver thus far.
+
 **mx2000drv** is a Linux driver for the Perixx MX-2000 series gaming mice. It is capable of setting all the configurations for the mouse (remapping buttons, backlight colors and times, macros, sensitivity, DPI) and saving to profiles in the onboard memory.
 
 Installation
